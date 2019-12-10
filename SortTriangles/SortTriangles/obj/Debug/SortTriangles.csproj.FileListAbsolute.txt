@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SortTriangles\SortTriangles\bin\Debug\SortTriangles.exe.config
+C:\Users\User\source\repos\SortTriangles\SortTriangles\bin\Debug\SortTriangles.exe
+C:\Users\User\source\repos\SortTriangles\SortTriangles\bin\Debug\SortTriangles.pdb
+C:\Users\User\source\repos\SortTriangles\SortTriangles\bin\Debug\FluentValidation.dll
+C:\Users\User\source\repos\SortTriangles\SortTriangles\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\SortTriangles\SortTriangles\bin\Debug\FluentValidation.xml
+C:\Users\User\source\repos\SortTriangles\SortTriangles\obj\Debug\SortTriangles.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\SortTriangles\SortTriangles\obj\Debug\SortTriangles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SortTriangles\SortTriangles\obj\Debug\SortTriangles.exe
+C:\Users\User\source\repos\SortTriangles\SortTriangles\obj\Debug\SortTriangles.pdb
